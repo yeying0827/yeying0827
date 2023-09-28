@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 Good good study, day day up!
 
 ## blog
+[![](https://www.cnblogs.com/images/logo.svg?v=2SMrXdIvlZwVoB1akyXm38WIKuTHVqvGD0CweV-B6cY)](https://www.cnblogs.com/beckyyyy/)
+
 [![](https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)](https://juejin.cn/user/659362706635991)
+
+[SF](https://segmentfault.com/u/beckyyyy)
 
 ## video
 [![](https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png)](https://space.bilibili.com/4518208)
