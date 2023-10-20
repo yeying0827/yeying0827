@@ -28,5 +28,5 @@ Good good study, day day up!
 [SF](https://segmentfault.com/u/beckyyyy)
 
 ## video
-[![](https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png)](https://space.bilibili.com/4518208)
+<!--[![](https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png)](https://space.bilibili.com/4518208)-->
 
