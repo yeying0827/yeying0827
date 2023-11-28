@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeying0827&data=followers,repositories,stars,commits)
 
 ## about
-Good good study, day day up!
+[LinkedIn](https://www.linkedin.com/in/becky-ye-224a4348/)
 
 ## blog
 [![](https://www.cnblogs.com/images/logo.svg?v=2SMrXdIvlZwVoB1akyXm38WIKuTHVqvGD0CweV-B6cY)](https://www.cnblogs.com/beckyyyy/)
